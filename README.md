@@ -1,19 +1,40 @@
-
 # Sage AI Toolkit
 
-An open-source toolkit for AI-assisted translation, proofreading, and publishing.
+An open-source toolkit for AI-assisted translation, proofreading, publishing, and prompt engineering.
+
+---
 
 ## Features
 
-- Book preprocessing
-- Translation workflow
-- Proofreading workflow
+- Translation prompts
+- Proofreading prompts
 - Publication audit
-- Markdown support
-- TXT support
-- DOCX support
+- AI workflows
+- Documentation
+- Examples
 
-## Installation
+---
 
-```bash
-pip install -r requirements.txt
+## Goals
+
+- Preserve author voice
+- Improve translation quality
+- Reduce hallucinations
+- Standardize AI workflows
+
+---
+
+## Folder Structure
+
+```text
+prompts/
+docs/
+examples/
+templates/
+```
+
+---
+
+## License
+
+MIT
